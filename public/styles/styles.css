@@ -1172,8 +1172,8 @@ video {
     flex-direction: column;
   }
 
-  .lg\:items-start {
-    align-items: flex-start;
+  .lg\:items-center {
+    align-items: center;
   }
 
   .lg\:justify-around {
