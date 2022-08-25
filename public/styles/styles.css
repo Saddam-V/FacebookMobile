@@ -910,10 +910,6 @@ video {
   font-size: 1.875rem;
   line-height: 2.25rem;
 }
-.text-5xl {
-  font-size: 3rem;
-  line-height: 1;
-}
 .font-bold {
   font-weight: 700;
 }
@@ -1096,8 +1092,19 @@ video {
     justify-content: flex-end;
   }
 
+  .\32xl\:space-x-16 > :not([hidden]) ~ :not([hidden]) {
+    --tw-space-x-reverse: 0;
+    margin-right: calc(4rem * var(--tw-space-x-reverse));
+    margin-left: calc(4rem * calc(1 - var(--tw-space-x-reverse)));
+  }
+
   .\32xl\:pr-24 {
     padding-right: 6rem;
+  }
+
+  .\32xl\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
   }
 }
 @media (max-width: 1279px) {
@@ -1112,6 +1119,11 @@ video {
 
   .xl\:flex-row {
     flex-direction: row;
+  }
+
+  .xl\:text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
   }
 }
 @media (max-width: 1023px) {
@@ -1172,6 +1184,12 @@ video {
     justify-content: space-around;
   }
 
+  .lg\:space-x-8 > :not([hidden]) ~ :not([hidden]) {
+    --tw-space-x-reverse: 0;
+    margin-right: calc(2rem * var(--tw-space-x-reverse));
+    margin-left: calc(2rem * calc(1 - var(--tw-space-x-reverse)));
+  }
+
   .lg\:pr-24 {
     padding-right: 6rem;
   }
@@ -1182,6 +1200,11 @@ video {
 
   .lg\:text-left {
     text-align: left;
+  }
+
+  .lg\:text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
   }
 }
 @media (max-width: 767px) {
@@ -1247,6 +1270,11 @@ video {
 
   .md\:text-center {
     text-align: center;
+  }
+
+  .md\:text-sm {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
   }
 }
 @media (max-width: 639px) {
