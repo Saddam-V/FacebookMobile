@@ -1125,12 +1125,12 @@ video {
     margin-top: 0px;
   }
 
-  .lg\:mb-0 {
-    margin-bottom: 0px;
-  }
-
   .lg\:mb-5 {
     margin-bottom: 1.25rem;
+  }
+
+  .lg\:mb-0 {
+    margin-bottom: 0px;
   }
 
   .lg\:inline-block {
@@ -1181,10 +1181,6 @@ video {
 
   .lg\:pr-24 {
     padding-right: 6rem;
-  }
-
-  .lg\:pr-16 {
-    padding-right: 4rem;
   }
 
   .lg\:text-left {
