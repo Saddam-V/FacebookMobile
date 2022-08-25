@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/public/styles/styles.css" />
+    <title>Contact Us</title>
+  </head>
+  <body class="bg-fuchsia-100">
+    <!-- Nav -->
+    <nav class="bg-purple-900 px-2 py-2 flex text-white justify-between flex-wrap md:justify-center md:flex-col md:text-center">
+      <span class="text-xl font-bold">FacebookMobile</span>
+      <ul class="flex space-x-16 2xl:justify-end 2xl:pr-24 md:text-center md:pt-3 md:justify-center md:items-center md:pr-0">
+        <li>
+          <a href="/" class="no-underline hover:text-green-400">Home</a>
+        </li>
+        <li><a href="/categories" class="no-underline hover:text-green-400">Categories</a></li>
+        <li>
+          <a href="/contactus" class="no-underline hover:text-green-400">Contact</a>
+        </li>
+        <li><a href="/about" class="no-underline hover:text-green-400">About</a></li>
+      </ul>
+    </nav>
+    <!--  -->
+
+    <!-- Section Starts -->
+    <section class="text-gray-600 body-font relative">
+      <!-- Div tag starts for feedback and map -->
+      <div class="px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap justify-around sm:flex-col md:flex-col lg:flex-col xl:flex-row">
+        <!-- Div tag starts inside map -->
+        <div
+          class="bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-3 flex items-end justify-start relative sm:w-full md:w-full lg:w-full xl:w-1/2 2xl:w-1/2 lg:flex-col 2xl:flex-row"
+        >
+          <iframe
+            width="100%"
+            height="100%"
+            frameborder="0"
+            marginheight="0"
+            marginwidth="0"
+            title="map"
+            scrolling="no"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.65672783848!2d72.85061611479345!3d23.436764284744875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395dcf7824ca2a29%3A0x68f820024f9f4bde!2sFacebook%20mobile%20shop!5e0!3m2!1sen!2sin!4v1661191901063!5m2!1sen!2sin"
+            style="filter: grayscale(1) contrast(1.2) opacity(0.4)"
+          ></iframe>
+          <div class="bg-white relative flex flex-wrap py-2 rounded shadow-md w-7/12 h-full lg:w-full lg:justify-around lg:flex-col">
+            <div class="lg:w-1/2 px-6">
+              <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
+              <p class="mt-1">Near Bhakhariya Bus Stop, Prantij, Gujarat (383205)</p>
+            </div>
+            <div class="lg:w-1/2 px-6 lg:mt-0 flex flex-wrap">
+              <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">EMAIL:</h2>
+              <a class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">FacebookMobile8866@gmail.com</a>
+            </div>
+            <div class="lg:w-1/2 px-6 lg:mt-0 flex flex-wrap">
+              <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE:</h2>
+              <p class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">+91-8866566246</p>
+            </div>
+            <div class="lg:w-1/2 px-6 lg:mt-0 lg:hidden">
+              <ul class="list-inside list-decimal">
+                <li>Accessories</li>
+                <li>Mobile Repairing</li>
+                <li>Screen Protection</li>
+                <li>Charger</li>
+                <li>Ear Phones</li>
+                <li>All Types of Combo</li>
+                <li>All Types of Touch Pad</li>
+                <li>Old Phones and New Phones</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- Div map ends -->
+        <div class="bg-white flex flex-col md:ml-auto md:py-8 mt-8 p-7 rounded-md lg:w-full 2xl:w-1/3 md:mt-5">
+          <h2 class="text-gray-900 text-lg mb-1 font-medium title-font">Feedback</h2>
+          <p class="leading-relaxed mb-5 text-gray-600">Your Feedback is very valuabe for us, Feel free to contact us</p>
+          <div class="relative mb-4">
+            <label for="name" class="leading-7 text-sm text-gray-600">Name</label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+            />
+          </div>
+          <div class="relative mb-4">
+            <label for="email" class="leading-7 text-sm text-gray-600">Email</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+            />
+          </div>
+          <div class="relative mb-4">
+            <label for="message" class="leading-7 text-sm text-gray-600">Message</label>
+            <textarea
+              id="message"
+              name="message"
+              class="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 h-32 text-base outline-none text-gray-700 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+            ></textarea>
+          </div>
+          <button class="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Submit</button>
+          <p class="text-xs text-gray-500 mt-3">Chicharrones blog helvetica normcore iceland tousled brook viral artisan.</p>
+        </div>
+      </div>
+      <!-- div ends -->
+    </section>
+
+    <!-- ######################################################################################################### -->
+  </body>
+</html>

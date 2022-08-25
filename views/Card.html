@@ -1,0 +1,25 @@
+<!--  -->
+<a href="/discount?id={%ID%}"
+  ><div
+    class="card p-3 flex justify-center m-3 scale-90 translate-x-4 skew-y-6 -rotate-6 hover:scale-100 hover:skew-y-0 hover:rotate-0 transition ease-in-out md:skew-y-0 md:-rotate-0 md:flex-col"
+  >
+    <img class="w-80 object-cover md:w-96" src="{%IMAGE%}" alt="" />
+    <div class="box bg-purple-900 flex justify-around flex-row p-10 text-white hover:shadow-black hover:shadow-md md:flex-col">
+      <div class="w-1/2 flex text-center flex-col justify-around md:w-full">
+        <span class="text-2xl font-bold">{%NAME%}</span>
+        <span class="text-xl">{%PRICE%}</span>
+        <span>{%CONDITION%}</span>
+      </div>
+
+      <div class="w-1/2 md:hidden">
+        <span>{%DESCRIPTION%}</span>
+      </div>
+    </div>
+    <div
+      class="bg-fuchsia-200 p-16 rounded-full w-16 h-16 text-center font-bold text-2xl flex justify-center items-center -translate-x-16 -translate-y-16"
+    >
+      {%DISCOUNT%}
+    </div>
+  </div></a
+>
+<!--  -->

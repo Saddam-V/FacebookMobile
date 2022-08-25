@@ -1,0 +1,346 @@
+[
+    {
+        "id":0,
+        "Name":"Galaxy Note 4",
+        "Price":"10,000",
+        "Condition":"Excellent",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"50",
+        "Category":"combo",
+        "Image":"https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":1,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"new",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":2,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"old",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":3,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":4,
+        "Name":"Oppo reno 8",
+        "Price":"19,000",
+        "Condition":"Excellent",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"40",
+        "Category":"old",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":5,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"new",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":6,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"old",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":7,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },{
+        "id":8,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"old",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":9,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":10,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"old",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    }, {
+        "id":11,
+        "Name":"Galaxy Note 4",
+        "Price":"10,000",
+        "Condition":"Excellent",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"50",
+        "Category":"combo",
+        "Image":"https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":12,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"combo",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":13,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"accessories",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":14,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"combo",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":15,
+        "Name":"Oppo reno 8",
+        "Price":"19,000",
+        "Condition":"Excellent",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"40",
+        "Category":"accessories",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":16,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"combo",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":17,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"accessories",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":18,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"combo",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },{
+        "id":19,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"accessories",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":20,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"combo",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":21,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"accessories",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },{
+        "id":22,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":23,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"old",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    }, {
+        "id":24,
+        "Name":"Galaxy Note 4",
+        "Price":"10,000",
+        "Condition":"Excellent",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"50",
+        "Category":"new",
+        "Image":"https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":25,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"new",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":26,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":27,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":28,
+        "Name":"Oppo reno 8",
+        "Price":"19,000",
+        "Condition":"Excellent",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"40",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },
+    {
+        "id":29,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"new",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":30,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":31,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    },{
+        "id":32,
+        "Name":"Iphone 12",
+        "Price":"15,000",
+        "Condition":"Good",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"43",
+        "Category":"new",
+        "Image":"https://drive.google.com/uc?export=view&id=1mZ8RlEiP7maEoZfcMDO858Hx2E50ZW4I"
+    },
+    {
+        "id":33,
+        "Name":"One Plus 10",
+        "Price":"12,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"60",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1D5AWQWUS-esNB6Pjiz0lkGOzj_c9f1Sx"
+    },
+     {
+        "id":34,
+        "Name":"Xiaomi 11i",
+        "Price":"13,000",
+        "Condition":"Average",
+        "Description":"Lorem ipsum dolor sit, amet consectetur adipisicing elit Sapiente deleniti vel nesciunt iure perspiciatis saepelaboriosam eaque quod unde consequuntur ab enim distinctio, hiccupiditate! A,um modi sit itaque voluptatum excepturidignissimos unde officiis facilis veritatis nisi laborum, nonatque tempora pariatur quae commodi neque qui adipisci illumsed!",
+        "Discount":"65",
+        "Category":"new",
+        "Image": "https://drive.google.com/uc?export=view&id=1GjuU3ijxB9CK7oO-hyHdl2ajWeE_BFAB"
+    }
+]
