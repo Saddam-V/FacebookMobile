@@ -854,16 +854,9 @@ video {
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
 }
-.py-36 {
-  padding-top: 9rem;
-  padding-bottom: 9rem;
-}
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
-}
-.pl-24 {
-  padding-left: 6rem;
 }
 .pt-3 {
   padding-top: 0.75rem;
@@ -1090,8 +1083,17 @@ video {
     margin-left: calc(4rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
+  .\32xl\:py-36 {
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+  }
+
   .\32xl\:pr-24 {
     padding-right: 6rem;
+  }
+
+  .\32xl\:pl-24 {
+    padding-left: 6rem;
   }
 
   .\32xl\:text-lg {
@@ -1137,8 +1139,16 @@ video {
     margin-bottom: 0px;
   }
 
+  .lg\:mb-3 {
+    margin-bottom: 0.75rem;
+  }
+
   .lg\:inline-block {
     display: inline-block;
+  }
+
+  .lg\:flex {
+    display: flex;
   }
 
   .lg\:hidden {
@@ -1151,6 +1161,10 @@ video {
 
   .lg\:w-1\/2 {
     width: 50%;
+  }
+
+  .lg\:w-2\/3 {
+    width: 66.666667%;
   }
 
   .lg\:w-1\/4 {
@@ -1173,6 +1187,10 @@ video {
     align-items: center;
   }
 
+  .lg\:justify-center {
+    justify-content: center;
+  }
+
   .lg\:justify-around {
     justify-content: space-around;
   }
@@ -1181,6 +1199,15 @@ video {
     --tw-space-x-reverse: 0;
     margin-right: calc(2rem * var(--tw-space-x-reverse));
     margin-left: calc(2rem * calc(1 - var(--tw-space-x-reverse)));
+  }
+
+  .lg\:py-32 {
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+
+  .lg\:pl-0 {
+    padding-left: 0px;
   }
 
   .lg\:text-center {
